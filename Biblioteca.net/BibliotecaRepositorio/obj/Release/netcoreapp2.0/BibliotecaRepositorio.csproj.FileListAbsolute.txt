@@ -1,0 +1,12 @@
+C:\Users\user\Downloads\Biblioteca.net\BibliotecaRepositorio\bin\Release\netcoreapp2.0\BibliotecaRepositorio.deps.json
+C:\Users\user\Downloads\Biblioteca.net\BibliotecaRepositorio\bin\Release\netcoreapp2.0\BibliotecaRepositorio.dll
+C:\Users\user\Downloads\Biblioteca.net\BibliotecaRepositorio\bin\Release\netcoreapp2.0\BibliotecaRepositorio.pdb
+C:\Users\user\Downloads\Biblioteca.net\BibliotecaRepositorio\bin\Release\netcoreapp2.0\BibliotecaDominio.dll
+C:\Users\user\Downloads\Biblioteca.net\BibliotecaRepositorio\bin\Release\netcoreapp2.0\BibliotecaDominio.pdb
+C:\Users\user\Downloads\Biblioteca.net\BibliotecaRepositorio\obj\Release\netcoreapp2.0\BibliotecaRepositorio.csprojAssemblyReference.cache
+C:\Users\user\Downloads\Biblioteca.net\BibliotecaRepositorio\obj\Release\netcoreapp2.0\BibliotecaRepositorio.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\Biblioteca.net\BibliotecaRepositorio\obj\Release\netcoreapp2.0\BibliotecaRepositorio.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\Biblioteca.net\BibliotecaRepositorio\obj\Release\netcoreapp2.0\BibliotecaRepositorio.AssemblyInfo.cs
+C:\Users\user\Downloads\Biblioteca.net\BibliotecaRepositorio\obj\Release\netcoreapp2.0\BibliotecaRepositorio.csproj.CopyComplete
+C:\Users\user\Downloads\Biblioteca.net\BibliotecaRepositorio\obj\Release\netcoreapp2.0\BibliotecaRepositorio.dll
+C:\Users\user\Downloads\Biblioteca.net\BibliotecaRepositorio\obj\Release\netcoreapp2.0\BibliotecaRepositorio.pdb
